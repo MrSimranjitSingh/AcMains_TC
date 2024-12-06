@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "A_My_Library")(type "KiCad")(uri "C:/Users/Simran/Documents/KiCad/7.0/footprints/A_My_Library.pretty")(options "")(descr ""))
+)

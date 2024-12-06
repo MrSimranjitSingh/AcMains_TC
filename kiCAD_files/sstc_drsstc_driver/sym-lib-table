@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "A_My_Library")(type "KiCad")(uri "C:/Users/Simran/Documents/KiCad/7.0/symbols/A_My_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "C:/Users/Simran/Documents/KiCad/7.0/symbols/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
+  (lib (name "UCC27321P")(type "KiCad")(uri "C:/Users/Simran/Documents/KiCad/7.0/symbols/UCC27321P.kicad_sym")(options "")(descr ""))
+  (lib (name "UCC27322P")(type "KiCad")(uri "C:/Users/Simran/Documents/KiCad/7.0/symbols/UCC27322P.kicad_sym")(options "")(descr ""))
+)
