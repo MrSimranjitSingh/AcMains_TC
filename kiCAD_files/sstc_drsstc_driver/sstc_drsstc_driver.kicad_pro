@@ -408,7 +408,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sstc_driver.kicad_pro",
+    "filename": "sstc_drsstc_driver.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -487,6 +487,10 @@
     [
       "18df4e20-feb1-42ae-9ca0-e0dec271a874",
       ""
+    ],
+    [
+      "f82bef66-ef4e-4f9c-bfc2-c3385c616891",
+      "power"
     ]
   ],
   "text_variables": {}
