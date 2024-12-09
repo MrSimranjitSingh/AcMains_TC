@@ -6,3 +6,6 @@ Everything is snap-fit or slides in place. For interrupt sender you will need:
 2x ky-040 rotary encoder modules
 3x M3 screws
 1x usb-c breakout-board (optional). To protect usb port of ESP-32 from damage due to repeated use.
+
+
+![alt text](https://github.com/MrSimranjitSingh/AcMains_TC/edit/main/3d_models//sample.jpeg?raw=true)
