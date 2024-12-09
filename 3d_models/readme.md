@@ -9,4 +9,4 @@ Everything is snap-fit or slides in place. For interrupt sender you will need:
 
 
 ![alt text](https://github.com/MrSimranjitSingh/AcMains_TC/main/3d_models/sample.jpeg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/MrSimranjitSingh/AcMains_TC/blob/main/3d_models/sample.jpeg?raw=true)
