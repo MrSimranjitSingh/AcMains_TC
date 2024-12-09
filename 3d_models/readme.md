@@ -8,4 +8,5 @@ Everything is snap-fit or slides in place. For interrupt sender you will need:
 1x usb-c breakout-board (optional). To protect usb port of ESP-32 from damage due to repeated use.
 
 
-![alt text](https://github.com/MrSimranjitSingh/AcMains_TC/edit/main/3d_models//sample.jpg?raw=true)
+![alt text](https://github.com/MrSimranjitSingh/AcMains_TC/main/3d_models/sample.jpeg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
